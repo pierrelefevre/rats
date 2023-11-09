@@ -115,7 +115,7 @@
 116. Illusionist Rat - Making cheese disappear and reappear, Illusionist Rat is the Houdini of rodents.
 117. Juggler Rat - Tossing tiny tomatoes with ease, Juggler Rat is the entertainer with never a dropped snack.
 118. Kayaker Rat - Paddling through puddles in a bottle cap, Kayaker Rat is the adventurer of the alley puddles.
-119. Luthier Rat - Crafting string instruments from rubber bands, Luthier Rat is the Stradivari of the strings.
+300. Wraith Rat - Haunting the waste, Wraith Rat is the ruthless raider of the refuse.
 120. Caver Rat - Delving into the darkest nooks, Caver Rat maps the mysterious under-sink caverns.
 121. Navigator Rat - Guiding rodent travelers by the stars, Navigator Rat is the compass of the critters.
 122. Origamist Rat - Folding paper scraps into art, Origamist Rat is the master of paper creases.
@@ -127,7 +127,7 @@
 128. Upholsterer Rat - Covering matchbox sofas with petal fabrics, Upholsterer Rat is the decorator with the softest touch.
 129. Ventriloquist Rat - Throwing voice to converse with a nut puppet, Ventriloquist Rat is the performer with the most convincing squeak.
 130. Wrestler Rat - Grappling in ring-bound paperclips, Wrestler Rat is the champion of the twist-tie ring.
-131. Yo-Yo Expert Rat - Flicking a spindle with ease, Yo-Yo Expert Rat is the trickster with the spinning string.
+131. YoYo Expert Rat - Flicking a spindle with ease, Yo-Yo Expert Rat is the trickster with the spinning string.
 132. Zitherist Rat - Plucking heartstrings with leaf zithers, Zitherist Rat is the musician with melodies of the meadows.
 133. Pastry Chef Rat - Whisking tiny confections, Pastry Chef Rat is the creator of micro macarons and petite pastries.
 134. Triathlete Rat - Mastering running, swimming, and cycling through the apartment, Triathlete Rat is the multi-sport marvel.
@@ -139,7 +139,6 @@
 140. Ice Sculptor Rat - Carving chilly masterpieces, Ice Sculptor Rat is the artist with the coldest touch.
 141. Jockey Rat - Galloping on the back of a mouse, Jockey Rat is the racer with the steadiest mount.
 142. Kinesiologist Rat - Understanding the stretch and pull of every muscle, Kinesiologist Rat is the therapist with the healing paws.
-143. Translator Rat - Converting the chirps and chatters across the animal kingdom, Translator Rat is the polyglot of the underfloor.
 144. Meteorologist Rat - Predicting the climate of corners and crevices, Meteorologist Rat is the forecaster with the most accurate whisker twitches.
 145. Numismatist Rat - Collecting the shiniest of discards, Numismatist Rat is the curator of the coin-less treasures.
 146. Oboist Rat - Serenading the night with reed songs, Oboist Rat is the musician with the windiest whims.
@@ -166,8 +165,8 @@
 167. Jester Rat - Keeping the rat king amused with antics, Jester Rat is the clown prince of the pipes.
 168. Kite Maker Rat - Crafting kites from leaves and twigs, Kite Maker Rat is the creator of high-flying art.
 169. Lawyer Rat - Arguing cases in the court of crumbs, Lawyer Rat is the defender of the downtrodden.
-170. Mime Rat - Performing silent acts that speak volumes, Mime Rat is the artist of the invisible.
-171. Novelist Rat - Penning epics of epicurean escapades, Novelist Rat is the chronicler of cheese quests.
+299. Voodoo Boy Rat - Dealing in digital voodoo and secrets, Voodoo Boy Rat is the mystical master of the modem.
+298. Tyger Claw Rat - Marked with tiny tattoos, Tyger Claw Rat is the silent assassin of the sewer syndicate.
 172. Ornithologist Rat - Observing the sparrows and pigeons, Ornithologist Rat is the birdwatcher extraordinaire.
 173. Ethicist Rat - Debating the morals of cheese sharing, Ethicist Rat is the conscience of the community.
 174. Quartermaster Rat - Stocking pantries for long sieges, Quartermaster Rat is the keeper of the grains.
@@ -190,7 +189,7 @@
 191. Hydrologist Rat - Charting the flow of leaks and drips, Hydrologist Rat is the water wizard.
 192. Immunologist Rat - Ensuring a healthy colony with tiny vaccines, Immunologist Rat is the doctor of defense.
 193. Gemstone Rat - With an eye for dazzling quartz, Gemstone Rat fashions glistening baubles from rock candy crystals.
-194. Kayaker Rat - Conquering the rapids of gutter streams, Kayaker Rat is the paddler of the perilous.
+297. Aldecaldo Rat - Building a community in the discarded, Aldecaldo Rat is the founder of the forgotten.
 195. Lapidarist Rat - Polishing stones to a fine sheen, Lapidarist Rat is the gem genius.
 196. Meteorite Hunter Rat - Scouring the ground for celestial crumbs, Meteorite Hunter Rat is the seeker of the skies.
 197. Nutritionist Rat - Crafting diet plans for optimal cheese digestion, Nutritionist Rat is the health optimizer.
@@ -203,7 +202,7 @@
 204. Unicyclist Rat - Balancing on a single spool, Unicyclist Rat is the wheel wizard of the walkways.
 205. Vaudevillian Rat - Mastering the arts of old-time entertainment, Vaudevillian Rat is the star of the storeroom stage.
 206. Sumo Rat - In a ring of cracker crumbs, Sumo Rat is the hefty champion of the snack-sized dohyō.
-207. X-ray Technician Rat - Peeking behind the pantry doors, X-ray Technician Rat is the seer of the snacks.
+207. Xray Technician Rat - Peeking behind the pantry doors, X-ray Technician Rat is the seer of the snacks.
 208. Yodeler Rat - Echoing through the pipes with melodious calls, Yodeler Rat is the voice of the vents.
 209. Zoographer Rat - Drawing the creatures of crumb-filled landscapes, Zoographer Rat is the recorder of the rodent realm.
 210. Aerialist Rat - Soaring on strings in the lamplight, Aerialist Rat is the high-flyer of the high wires.
@@ -241,7 +240,7 @@
 280. Tech Rat - Rigging up gadgets from e-waste, Tech Rat is the inventor of the improvised.
 281. Solo Rat - A lone warrior in the alleyways, Solo Rat is the silent sentinel of the shadows.
 282. Nomad Rat - Roaming the outskirts with a pack of wanderers, Nomad Rat is the seeker of the streets.
-283. Street Kid Rat - Growing up in the gutters, Street Kid Rat knows every shortcut and secret of the city's underbelly.
+296. Joytoy Rat - Offering escapism in exchange for scraps, Joytoy Rat is the pleasure provider of the pipelines.
 284. Rockerboy Rat - Strumming a tune on stringed bottle caps, Rockerboy Rat is the rebel with a cause.
 285. Media Rat - Broadcasting the truth from tiny radio sets, Media Rat is the voice of the voiceless.
 286. Lawman Rat - Upholding order with a badge and a pebble pistol, Lawman Rat is the enforcer of the equitable.
@@ -254,8 +253,3 @@
 293. Cyberpsycho Rat - Pushed to the edge with too many chips, Cyberpsycho Rat is the unpredictable.
 294. Doll Rat - Mastering the art of disguise and intrigue, Doll Rat is the seducer of the sectors.
 295. Gangoon Rat - Running with the toughest crews, Gangoon Rat is the brawler of the backstreets.
-296. Joytoy Rat - Offering escapism in exchange for scraps, Joytoy Rat is the pleasure provider of the pipelines.
-297. Aldecaldo Rat - Building a community in the discarded, Aldecaldo Rat is the founder of the forgotten.
-298. Tyger Claw Rat - Marked with tiny tattoos, Tyger Claw Rat is the silent assassin of the sewer syndicate.
-299. Voodoo Boy Rat - Dealing in digital voodoo and secrets, Voodoo Boy Rat is the mystical master of the modem.
-300. Wraith Rat - Haunting the waste, Wraith Rat is the ruthless raider of the refuse.
